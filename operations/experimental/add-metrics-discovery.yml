@@ -2,9 +2,9 @@
   path: /releases/name=metrics-discovery?
   value:
     name: metrics-discovery
-    sha1: 33f13f5e096f0647571e3dff0fd9ecd10a9b042d
-    url: https://bosh.io/d/github.com/cloudfoundry/metrics-discovery-release?v=2.0.4
-    version: 2.0.4
+    sha1: 22f4a30ad8b2efebe9f179518724b81e79544e8f
+    url: https://bosh.io/d/github.com/cloudfoundry/metrics-discovery-release?v=2.0.5
+    version: 2.0.5
 - type: replace
   path: /addons/name=metrics-discovery-registrar?
   value:
